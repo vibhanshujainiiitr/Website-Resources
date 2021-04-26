@@ -59,5 +59,9 @@ https://collectui.com/<br><br>
 ### Dribbble
 https://dribbble.com/<br><br>
 
+# GitHub resources
+### StackEdit (Markdown files)
+https://stackedit.io/app#<br><br>
+
 # Contribute
 Please contribute to this repository.
