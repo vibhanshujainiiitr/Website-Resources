@@ -19,8 +19,15 @@ https://gradienthunt.com/radial<br><br>
 
 ### CSSGradient
 https://cssgradient.io/<br><br>
+
+### Owl Carousel
+https://owlcarousel2.github.io/OwlCarousel2/<br><br>
+
 ### Animated Hamburgers
 https://jonsuh.com/hamburgers/<br><br>
+
+### Css animation Library
+https://animista.net/<br><br>
 
 ### CSS Parallax
 https://www.w3schools.com/howto/howto_css_parallax.asp<br><br>
@@ -55,7 +62,11 @@ https://material-ui.com/<br><br>
 ### SVG Library
 https://undraw.co/illustrations<br><br>
 
+### Create waves using SVG
+https://getwaves.io/<br><br>
+
 ## UI Library
+
 ### Collect UI
 https://collectui.com/<br><br>
 
