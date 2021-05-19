@@ -2,6 +2,10 @@
 
 ### Full Page JS
 https://alvarotrigo.com/fullPage/<br><br>
+
+### Infinite Scroll
+https://infinite-scroll.com/
+
 ### Glass Cards
 https://glassmorphism.com/<br><br>
 
